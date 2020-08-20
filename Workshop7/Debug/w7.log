@@ -1,0 +1,18 @@
+﻿  w7.cpp
+c:\users\s2admin\source\repos\w7\w7\datatable.h(96): warning C4244: 'initializing': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  c:\users\s2admin\source\repos\w7\w7\datatable.h(85): note: while compiling class template member function 'void w7::DataTable<float>::regression(T &,T &) const'
+          with
+          [
+              T=float
+          ]
+  c:\users\s2admin\source\repos\w7\w7\w7.cpp(39): note: see reference to function template instantiation 'void w7::DataTable<float>::regression(T &,T &) const' being compiled
+          with
+          [
+              T=float
+          ]
+  c:\users\s2admin\source\repos\w7\w7\w7.cpp(33): note: see reference to class template instantiation 'w7::DataTable<float>' being compiled
+  w7.vcxproj -> C:\Users\S2Admin\source\repos\w7\Debug\w7.exe
