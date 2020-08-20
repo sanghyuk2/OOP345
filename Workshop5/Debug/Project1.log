@@ -1,0 +1,12 @@
+﻿  Grades.cpp
+c:\users\slee395\source\repos\project1\project1\grades.cpp(21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+  W5.cpp
+c:\users\slee395\source\repos\project1\project1\grades.h(22): warning C4018: '<': signed/unsigned mismatch
+  c:\users\slee395\source\repos\project1\project1\w5.cpp(42): note: see reference to function template instantiation 'void sict::Grades::displayGrades<main::<lambda_d7fd0729082c5040c6751e695cde7ed8>>(std::ostream &,T) const' being compiled
+          with
+          [
+              T=main::<lambda_d7fd0729082c5040c6751e695cde7ed8>
+          ]
+  Generating Code...
+  Project1.vcxproj -> C:\Users\slee395\source\repos\Project1\Debug\Project1.exe
